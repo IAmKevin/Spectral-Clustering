@@ -1,4 +1,4 @@
-package span
+package driver
 
 import java.io.File
 import parser.input.AbstractSpanInputParser
